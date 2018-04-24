@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Aloha';
+  src:url('../fonts/Aloha.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'makeinindia';
+  src:url('../fonts/samarkan.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'homeA';
+  src:url('../fonts/font4.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'aboutext';
+  src:url('../fonts/font5.ttf')  format('truetype');
+}

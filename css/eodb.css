@@ -1,0 +1,57 @@
+body
+{
+  overflow: hidden;
+}
+.main
+{
+	background-color: #fcfaea;
+	height:100%;
+	width:100%;
+	padding-top: 5px;
+}
+.img {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  cursor: pointer;
+  margin: 1%;
+  width:47%;
+
+}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transition: all .5s;
+  overflow: hidden;
+  height: 0;
+  color: #fff;
+  border-radius:50px;
+}
+.img:hover .overlay,.overlay:hover 
+{
+  height: 100%;
+  width:100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+.img > img {
+  display: block;
+}
+.img img 
+{
+	height:70%;
+	width:100%;
+}
+#texteobd
+{
+font-size: 30px;
+font-family: aboutext;
+padding-left: 80px;
+}
+#cr 
+{
+ position:absolute;
+ bottom:0;
+ left:35%;
+}

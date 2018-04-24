@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<!-- saved from url=(0031)http://ictalliance.org/2013/12/ -->
+<html lang="en-US" class="csstransforms csstransforms3d csstransitions parent_menu_item"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta charset="UTF-8">
+		 
+		<link rel="alternate" type="application/rss+xml" title="China - Finland Strategic ICT Alliance » Feed" href="http://ictalliance.org/feed/">
+<link rel="alternate" type="application/rss+xml" title="China - Finland Strategic ICT Alliance » Comments Feed" href="http://ictalliance.org/comments/feed/">
+		<script type="text/javascript" async="" src="./initiativces_files/ga.js" style="color: rgb(0, 0, 0);"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/ictalliance.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f;c.supports={simple:d("simple"),flag:d("flag")},c.supports.simple&&c.supports.flag||(f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./initiativces_files/wp-emoji-release.min.js" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="wpsqt-main-css" href="./initiativces_files/main.css" type="text/css" media="all">
+<link rel="stylesheet" id="icons-css" href="./initiativces_files/front.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpdm-bootstrap-css" href="./initiativces_files/bootstrap.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="./initiativces_files/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-inline-edit-style-css" href="./initiativces_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="mpc-reset-styles-css" href="./initiativces_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="mpc-shortcodes-styles-css" href="./initiativces_files/shortcodes-styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="mpc-widgets-styles-css" href="./initiativces_files/widgets-styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-jcarousel-styles-css" href="./initiativces_files/skin.css" type="text/css" media="all">
+<link rel="stylesheet" id="flex-slider-css" href="./initiativces_files/flexslider.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-layerSlider-css" href="./initiativces_files/jquery.layerSlider.css" type="text/css" media="all">
+<link rel="stylesheet" id="nivo-slider-css" href="./initiativces_files/nivo-slider.css" type="text/css" media="all">
+<link rel="stylesheet" id="isotope-style-css" href="./initiativces_files/style(2).css" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-style-css" href="./initiativces_files/fancybox.css" type="text/css" media="all">
+<link rel="stylesheet" id="iconic-font-css" href="./initiativces_files/font_icons.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-custom-css" href="./initiativces_files/css" type="text/css" media="all">
+<script type="text/javascript" src="./initiativces_files/jquery.js"></script>
+<script type="text/javascript" src="./initiativces_files/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="./initiativces_files/site.js"></script>
+<script type="text/javascript" src="./initiativces_files/bootstrap.min.js"></script>
+<script type="text/javascript" src="./initiativces_files/front.js"></script>
+<script type="text/javascript" src="./initiativces_files/chosen.jquery.min.js"></script>
+<script type="text/javascript" src="./initiativces_files/shortcodes.js"></script>
+<script type="text/javascript" src="./initiativces_files/functions.js"></script>
+<script type="text/javascript" src="./initiativces_files/jQuery.layerSlider.js"></script>
+<script type="text/javascript" src="./initiativces_files/jquery.nivo.slider.js"></script>
+<script type="text/javascript" src="./initiativces_files/jquery-ui.js"></script>
+<script type="text/javascript" src="./initiativces_files/jquery.color.js"></script>
+<script type="text/javascript" src="./initiativces_files/jquery.quicksand.js"></script>
+<script type="text/javascript" src="./initiativces_files/jquery.validate.min.js"></script>
+<script type="text/javascript" src="./initiativces_files/jquery.shadow-animate.js"></script>
+<script type="text/javascript" src="./initiativces_files/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="./initiativces_files/jquery.isotope.min.js"></script>
+<script type="text/javascript" src="./initiativces_files/jquery.flexslider.js"></script>
+<script type="text/javascript" src="./initiativces_files/easing-jquery.js"></script>
+<script type="text/javascript" src="./initiativces_files/jquery.fancybox.js"></script>
+<script type="text/javascript" src="./initiativces_files/modernizr.custom.js"></script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ictalliance.org/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.1">
+<script type="text/javascript" src="./initiativces_files/library.js"></script>
+<script type="text/javascript">
+<!--
+	wpined_path = "http://ictalliance.org/wp-content/plugins/wp-inline-edit";
+	wpined_postid = "906";
+//-->
+</script>	<meta http-equiv="Content-Type" charset="UTF-8" content="text/html">
+	<meta name="generator" content="WordPress 4.2.1">
+	<title>
+	China – Finland Strategic ICT Alliance	 » 2013 » December	</title>
+
+	<link rel="shortcut icon" href="http://ictalliance.org/wp-content/themes/gentle/images/favicon.ico">
+	<link href="./initiativces_files/css(1)" rel="stylesheet" type="text/css">
+
+	<!--[if lte IE 8 ]>
+		<link rel="stylesheet" href="http://ictalliance.org/wp-content/themes/gentle/css/ie8.css"/>
+	<![endif]-->
+
+	<!--[if lte IE 7 ]>
+		<script src"http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+		<link rel="stylesheet" href="http://ictalliance.org/wp-content/themes/gentle/css/ie7.css"/>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="http://ictalliance.org/wp-content/themes/gentle/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<!--[if IE]>
+		<link rel="stylesheet" href="http://ictalliance.org/wp-content/themes/gentle/css/ie.css"/>
+	<![endif]-->
+
+	<script>
+	/*-----------------------------------------------------------------------------------*/
+	/*	Validate Comment Form
+	/*-----------------------------------------------------------------------------------*/
+	jQuery(document).ready(function($) {
+		$.validator.addMethod("notEqual", function(value, element, param) {
+			if(element.value == param)
+				return false;
+			else if(element.text == param)
+				return false;
+			else
+				return true;
+		}, "Please input value!");
+		
+		$.validator.addMethod("notEqual", function(value, element, param) {
+			return value !== param;
+		}, "Please input value!");
+		
+		/* Validation for comment form */
+		$('#commentform').validate({
+			rules: {
+				author: {
+					required: true,
+					minlength: 2,
+					notEqual: 'Name *'
+				},
+						
+				email: {
+					required: true,
+					email: true, 
+					notEqual: 'Email *'
+				},
+				
+				comment: {
+					required: true,
+					minlength: 5,
+					notEqual: 'Message *'	
+				}		
+			},
+					
+			messages: {
+				author: "Please enter a valid name.",
+				email: "Please enter a valid email.",
+				comment: "Your comment must be at least 5 charcters long."
+			}
+		});
+	});
+	</script>
+
+
+	<style>
+		
+		/* background color */
+		body { background-color: #ffffff; }
+
+		div.post,
+		#gentle-aside,
+		#mpc-header .sub-menu,
+		.gentle-recent-post,
+		.jcarousel-item,
+		.gentle-recent-portflio,
+		.mpc-icon-column { background-color: #ffffff!important; }
+
+		#mpc-header { background-color: #ffffff; }
+
+		#gentle_footer { background-color: #ffffff; }
+		#gentle_footer .bottom-footer { background-color: #F9F9F9; }
+
+		.gentle-recent-post:hover, 
+		.gentle-recent-portflio:hover, 
+		.mpc-icon-column:hover, 
+		#mpc-page-wrap.full div.post:hover {
+			transition: background 0.5s;
+			-ms-transition: background 0.5s; 
+			-moz-transition: background 0.5s; 
+			-webkit-transition: background 0.5s; 
+			-o-transition: background 0.5; 
+			background-color: #F9F9F9!important;
+		}
+
+		/* Text Color */
+		
+		/*#gentle-lm-info,
+		h3.gentle-home-heading,
+		h4.gentle-home-heading,
+		.gentle-recent-post a h5,
+		body a,
+		body { color : #515151!important; background: transparent; }*/
+
+		#mpc-nav,
+		#mpc-nav li a { color : #515151!important; }
+
+
+
+		/* Active */ 
+
+		body a:hover { color: #ff3c10!important; }
+		#mpc-nav li a:hover { color : #ff3c10!important; }
+		#mpc-nav li.current-menu-item > a { color : #ff3c10!important; }
+
+		#mpc-nav li.current-menu-ancestor > a,
+		#mpc-nav li.current-menu-parent > a { color : #ff3c10!important; }
+
+
+		/* Lines */
+
+		.bottom-footer,
+		.mpc-icon-column, 
+		.mpc-icon-columns,
+		div.post,
+		pre,
+		#mpc-nav .sub-menu,
+		#mpc-nav .sub-menu li a,
+		#gentle_latest_portfolio,
+		#gentle_footer,
+		#gentle_latest_posts_jcarousel,
+		#mpc-page-content,
+		#gentle-aside,
+		#mpc-header-container,
+		#mpc-slider-shortcode { border-color: #AAAAAA!important; }
+
+		#mpc-nav > li span.nav-slash { color: #AAAAAA!important; }
+
+		hr { background-color: #AAAAAA; }
+
+		.mpc-gentle-deco,
+		.gentle-deco-line,
+		.nav-bar { background-color: #ff3c10!important; }
+
+		.mpc-gentle-deco,
+		.widget_title { border-color: #ff3c10!important; }
+
+		.jcarousel-prev,
+		.jcarousel-next { background-color: #AAAAAA!important; }
+
+		.jcarousel-prev:hover,
+		.jcarousel-next:hover { background-color: #ff3c10!important; }
+
+		.quick-flickr-item::after { background-color: #ff3c10!important;}
+
+		/* Forms */
+	
+		.post-comments input,
+		.post-comments textarea,
+		#contact_form input,
+		#contact_form textarea { background-color : #F1F1F1!important; color : #515151!important; }
+
+		.post-comments input:hover,
+		.post-comments textarea:hover,
+		#contact_form input:hover,
+		#contact_form textarea:hover { background-color: #f0f0f0!important; }
+
+		/* Form Error */
+
+		.post-comments input.error,
+		.post-comments textarea.error,
+		#contact_form input.error,
+		#contact_form textarea.error { background-color: #F0F0F0!important; color : #515151!important; border-color:  #ff3c10!important; }
+
+		.post-comments label.error,
+		#contact_form label.error { color : #ff3c10!important; }
+
+		.post-comments input#submit,
+		#contact_form input#submit {
+			background-color: #F1F1F1!important; 
+			color : #515151!important;
+			border-color : #F0F0F0!important;
+		}
+
+		.post-comments input#submit:hover,
+		#contact_form input#submit:hover {
+			background-color: #ff3c10!important; 
+			color : #FFFFFF!important;
+			border-color : #F0F0F0!important;
+		}
+
+		/* Search Form */
+		input.gentle-search {
+			background-color: #F9F9F9!important; 
+			color : #888888!important;
+			border-color : #F0F0F0!important;
+		}
+
+		/* Shortcodes */
+		.toggle-header,
+		.toggle-content,
+		.tabs ul li.tabs_title,
+		.tabs .tab_content { background-color : #F9F9F9!important;}
+
+		#mpc-page-content.blog div.post .mpc-post-thumbnail blockquote {
+			background-color : #F9F9F9!important;
+		}
+
+		/* Categories filter */
+		.mpc-portfolio-categories li {
+			background-color: #F1F1F1!important;
+			border-color: #f0f0f0!important;
+		}
+
+		/* Post Hover */
+		.post .mpc-gentle-post-hover { background-color: #FF3C10!important; }
+
+		/* Load More */
+		#gentle-load-more #gentle-lm-button { background-color: #F9F9F9!important; color: #FF3C10!important; }
+
+		#gentle-load-more #gentle-lm-button:hover { background-color: #FF3C10!important; color: #FFFFFF!important; }
+
+		/* Read More */
+
+		.mpc-read-more {
+			background-color: #D2D6DB!important;
+		}
+
+		.mpc-read-more .mpc-line-ver,
+		.mpc-read-more .mpc-line-hor {
+			background-color: #FFFFFF!important;
+		}
+
+		.mpc-read-more:hover {
+			background-color: #D2D6DB!important;
+		}
+
+		.mpc-read-more:hover .mpc-line-ver,
+		.mpc-read-more:hover .mpc-line-hor {
+			background-color: #333333!important;
+		}
+
+
+		/* Highlight Color Setting */
+	
+		::-moz-selection {
+			background: #ff3c10;
+			color: #FFFFFF;
+		}
+		
+		::selection {
+			background: #ff3c10;
+			color: #FFFFFF;
+		}
+			
+		
+		.search::-moz-selection {
+			background: #ff3c10;
+			color: #FFFFFF;
+		}
+
+		/* Fix */
+
+		.mpc-post-thumbnail .gentle-icon-eye { color: #ffffff!important; }
+		.mpc-post-thumbnail .gentle-icon-eye:hover { color: #ffffff!important; }
+
+
+		/* Custom CSS */
+		#layer_slider a {
+    color: #ffffff;
+}
+
+body.home h3 a {
+    color: #414141;
+}
+
+.jcarousel-prev, .jcarousel-next {
+    background-color: #FF2600 !important;
+}
+.mpc-portfolio-categories {
+    display: none;
+}
+	</style>
+	
+	
+<!-- BEGIN GADWP v4.7.1 Classic Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-48430905-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- END GADWP Classic Tracking -->
+
+	</head>
+
+	<body class="archive date parent_menu_item">
+		<div id="mpc-main-container" class="parent_menu_item">
+			<div id="mpc-header-container" class="parent_menu_item">
+				<div id="mpc-header" class="parent_menu_item">
+					
+					<div id="gentle-logo">
+						<a href="http://ictalliance.org/"><img src="./initiativces_files/logo-ictalliance.png"></a>
+					</div>
+					
+					<ul id="mpc-nav" class="menu parent_menu_item"><li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18 first-item top-menu"><a href="http://ictalliance.org/">Home</a><span class="nav-slash">\\</span></li>
+<li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-218 parent_menu_item top-menu"><a href="http://ictalliance.org/about-us/project-obejectives/">About Us</a><span class="nav-slash">\\</span>
+<ul class="sub-menu parent_menu_item" style="display: none;">
+	<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217 first-item"><a href="http://ictalliance.org/about-us/project-obejectives/">Project Objectives</a><span class="nav-slash">\\</span></li>
+	<li id="menu-item-280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-280 last-item parent_menu_item"><a href="http://ictalliance.org/about-us/project-partners/chinese-partners/">Project Partners</a><span class="nav-slash">\\</span>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279 first-item"><a href="http://ictalliance.org/about-us/project-partners/chinese-partners/">Chinese Partners</a><span class="nav-slash">\\</span></li>
+		<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290 last-item"><a href="http://ictalliance.org/about-us/project-partners/finnish-partners/">Finnish Partners</a><span class="nav-slash">\\</span></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56 top-menu"><a href="http://ictalliance.org/events/">Events</a><span class="nav-slash">\\</span></li>
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-66 parent_menu_item top-menu"><a href="http://ictalliance.org/news/">News</a><span class="nav-slash">\\</span>
+<ul class="sub-menu" style="display: none;">
+	<li id="menu-item-965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965 first-item last-item"><a href="http://ictalliance.org/newsletter/">Newsletter</a><span class="nav-slash">\\</span></li>
+</ul>
+</li>
+<li id="menu-item-390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-390 parent_menu_item top-menu"><a href="http://ictalliance.org/projects/">Focus Areas</a><span class="nav-slash">\\</span>
+<ul class="sub-menu" style="display: none;">
+	<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392 first-item"><a href="http://ictalliance.org/projects/">Projects</a><span class="nav-slash">\\</span></li>
+	<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="http://ictalliance.org/projects/focus-areas/">Focus Areas</a><span class="nav-slash">\\</span></li>
+	<li id="menu-item-1077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1077 last-item"><a href="http://ictalliance.org/projects/research-forums/">Research Forums</a><span class="nav-slash">\\</span></li>
+</ul>
+</li>
+<li id="menu-item-695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-695 top-menu"><a href="http://ictalliance.org/perspectives/">Perspectives</a><span class="nav-slash">\\</span></li>
+<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133 last-item top-menu"><a href="http://ictalliance.org/contact-us/">Contact Us</a><span class="nav-slash">\\</span></li>
+</ul> <!-- end menu -->
+                                         <!-- OneAll.com / Social Login for WordPress / v4.6 -->
+<div class="oneall_social_login">
+ <div class="oneall_social_login_label" style="margin-bottom: 3px;"><label>Log in with:</label></div>
+ <div class="oneall_social_login_providers" id="oneall_social_login_providers_7637742"><iframe id="oa_social_login_frame_27421" frameborder="0" scrolling="no" allowtransparency="true" data-processed="true" name="OneAll Social Login" src="./initiativces_files/saved_resource.html" style="visibility: visible; border: 0px none; width: 200px; height: 61px !important; background-color: transparent;"></iframe></div>
+ <script type="text/javascript">
+  oneall.api.plugins.social_login.build('oneall_social_login_providers_7637742', {
+   'providers': ['linkedin'], 
+   'callback_uri': (window.location.href + ((window.location.href.split('?')[1] ? '&amp;' : '?') + 'oa_social_login_source=custom')), 
+   'css_theme_uri': 'http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css' 
+  });
+ </script>
+</div>					<span class="nav-bar"></span>
+					
+	<form method="get" id="searchform" action="http://ictalliance.org/">
+		<input type="text" class="field gentle-search" name="s" id="s" value="Type something and hit enter" onfocus="if(this.value==&#39;Type something and hit enter&#39;)this.value=&#39;&#39;;" onblur="if(this.value==&#39;&#39;)this.value=&#39;Type something and hit enter&#39;;">
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search">
+	</form>
+					
+	
+	   			<select id="mpc-nav-select"><option value="http://ictalliance.org/">Home</option><option value="http://ictalliance.org/about-us/project-obejectives/">About Us</option><option value="http://ictalliance.org/about-us/project-obejectives/">Project Objectives</option><option value="http://ictalliance.org/about-us/project-partners/chinese-partners/">Project Partners</option><option value="http://ictalliance.org/about-us/project-partners/chinese-partners/">Chinese Partners</option><option value="http://ictalliance.org/about-us/project-partners/finnish-partners/">Finnish Partners</option><option value="http://ictalliance.org/events/">Events</option><option value="http://ictalliance.org/news/">News</option><option value="http://ictalliance.org/newsletter/">Newsletter</option><option value="http://ictalliance.org/projects/">Focus Areas</option><option value="http://ictalliance.org/projects/">Projects</option><option value="http://ictalliance.org/projects/focus-areas/">Focus Areas</option><option value="http://ictalliance.org/projects/research-forums/">Research Forums</option><option value="http://ictalliance.org/perspectives/">Perspectives</option><option value="http://ictalliance.org/contact-us/">Contact Us</option></select></div> <!-- end header -->
+			</div> <!-- end header-container -->
+
+<script>
+
+	jQuery(document).ready(function($) {
+		var $container = $('#mpc-page-content');
+		$container.imagesLoaded( function() {
+		    $container.isotope({
+		    	resizable: false,
+		    	animationEngine: 'best-available',
+		    	masonry: { columnWidth: 1 }
+		   });
+		});
+
+		$(window).resize(function(){
+			$container.isotope({ masonry: { columnWidth: 1 } });
+		});
+	});
+
+</script>
+
+<div id="mpc-content" role="main">
+	<div id="mpc-page-wrap" class="sidebar-right archive">
+		<h2 class="mpc-home-header left">
+			Archive		</h2>
+		<h4 class="mpc-home-header left">
+			for December, 2013		</h4>		
+	<div id="mpc-page-content" class="archive blog blog1 sidebar-right isotope" style="position: relative; overflow: hidden; height: 8022px;">
+		        	 	
+        	 	<div id="post-906" class="blog-post, post post-906 type-post status-publish format-standard has-post-thumbnail hentry category-newsletter tag-china tag-cooperation tag-digile tag-european tag-european-commission tag-finland tag-future-internet tag-ict-alliance isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
+        	 		<div class="mpc-post-thumbnail">
+		        					        	<img width="450" height="450" src="./initiativces_files/new-initiative-china-europe-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="new-initiative-china-europe-thumbnail">	
+                	</div>
+				
+					<h4 class="mpc-page-title"><a href="http://ictalliance.org/new-initiatives-launched-in-november-december-2013-2/" title="New initiatives launched in November-December 2013">
+						New initiatives launched in November-December 2013					</a></h4>
+					<small>
+						Dec 16 2013					
+										</small>   
+				<p><span style="color: #ff0000;"><span style="font-size: large;"><strong>China-Finland ICT Alliance November – December 2013 Update</strong></span></span></p>
+<div class="w3eden"><!-- WPDM Link Template: Default Template --><div class="wpdm-link-tpl link-btn light" data-durl="http://ictalliance.org/?wpdmdl=1321">    <div class="media">        <div class="pull-left"><img class="wpdm_icon" src="./initiativces_files/blank.png"></div>        <div class="media-body"><strong class="ptitle">China-Finland ICT Alliance November – December 2013 Update <span class="label label-default" style="font-weight: 400;">482.73 KB</span></strong>            <div><strong><a class="wpdm-download-link wpdm-download-locked [btnclass]" rel="noindex nofollow" href="http://ictalliance.org/?wpdmdl=1321"><i class=""></i>Click to download China -Finland ICT Alliance November - December 2013 Update.pdf</a></strong></div>        </div>    </div></div><div style="clear: both"></div></div>
+<p><strong>ICT Alliance as a Showcase in the OpenChina-ICT Final Conference on Strengthening Cooperation in ICT Research between Europe and China</strong></p>
+<p></p><div class="column two_third">The OpenChina-ICT project, supported by the European Commission, aimed at contributing to the facilitation of ICT related research cooperation between Europe and China, and its partners include Fraunhofer (Germany) and Sigma Orionis, BSEAC (China), CATR (China) and CECO/CSTEC (China). The final project conference was held in Vilnius on 5 November 2013.<strong> China-Finland ICT Alliance was invited to be presented as a R&amp;D&amp;I showcase in China cooperation and to present its future initiatives and cooperation priorities, as well to be a participant in the concluding expert panel.</strong> Mr. Jani Kaarlejärvi has been a Member of the Advisory Board of the OpenChina-ICT project. Keynote speeches were delivered by, for example, <strong>Mr. Xing Jijun</strong>, Deputy Director-General, China Science and Technology Exchange Center of the Ministry of Science and Technology (MOST) of China,<strong> Mr. Antonio Graziano</strong>, Vice President of EU Public Affairs, Huawei European Research Center,<strong> Mr. Cao Jiguang</strong>, Vice Chief Engineer, Communications Standards Research Institute, China Academy of Telecommunication Research (CATR) of the Ministry of Industry and Industrial Technology (MIIT) of China, and<strong> Mr. Morten Moller</strong>, Head of Unit, Programme Coordination, DG CONNECT, European Commission.<strong> Mr. Xing, in his keynote speech, highlighted positive developments in European-Chinese cooperation, and especially the China-Finland bilateral R&amp;D&amp;I cooperation that has proceeded very well since the EU-China-Finland Summit in Helsinki in 2012 organised by DIGILE/China-Finland ICT Alliance.</strong></div><div class="column one_third column_last"><img class="alignnone size-full wp-image-857" alt="China-Finland ICT Alliance November" src="./initiativces_files/China-Finland-ICT-Alliance-November.png" width="146" height="150"> </div><div class="clearboth"></div><p></p>
+<p>The conference gathered about 100 experts from industry, business and research both from China and Europe. Its first session was on EU-China collaboration perspectives, second session was on cooperation priorities in ICT among the two regions, and third session provided recommendations and suggestions for EU-China successful ICT research cooperation. <strong>Key discussion topics focused on:</strong></p>
+<div class="column two_third">
+<ul>
+<li>what will be the impact of Europe’s financial pressure on European funded international research?</li>
+<li>what Horizon 2020 will mean for Europe-China R&amp;D&amp;I cooperation?</li>
+<li>what are concrete perspectives for cooperation on ICT research under Horizon 2020?</li>
+<li>what way global grand challenges that both regional areas face can be tackled via joint R&amp;D&amp;I activities?</li>
+<li>should the European Commission have a stronger role in the coordination of bilateral cooperation activities of European Member States?</li>
+<li>should Chinese-European ICT research concentrate even more on actual industry needs and mutual market access of Chinese and European value chains?</li>
+</ul>
+<p></p></div><div class="column one_third column_last"><img class="alignnone size-full wp-image-859" alt="China-Finland ICT Alliance November" src="./initiativces_files/China-Finland-ICT-Alliance-November.jpg" width="114" height="139"></div><div class="clearboth"></div><p></p>
+<p></p><div class="column two_third">One of the main objectives of the conference was to discuss and reflect on the findings of the final report on <strong>“EU-China ICT Cooperation Plan”</strong> for the Horizon 2020 era. The final OpenChina‐ICT recommendations highlighted <strong>six optional and complementary routes for future cooperation between Europe and China</strong>: communication, bilateral vs. European level cooperation, researcher and student exchanges, cooperation on R&amp;D projects, research support for industry, and dialogue.<strong> The final report summarises most potential thematic cooperation areas: “There is evidence that the key directions of the China‐EU cooperation in ICT in the next eight years will mainly include: the next‐generation internet, broadband mobile communication, the mobile internet, the convergence of three networks, Internet of Things, cloud computing, network and information security, integrated circuits, electronic components, and computer and software.”</strong></div><img class="alignnone size-full wp-image-863" alt="China-Finland ICT Alliance November" src="./initiativces_files/China-Finland-ICT-Alliance-November1.jpg" width="164" height="99"><div class="column one_third column_last"></div><div class="clearboth"></div><p></p>
+<p><strong>ICT Alliance in the Horizon 2020 ICT Work Programme Kick-off Conference</strong></p>
+<p></p><div class="column two_third">With more than 5300 registered participants in Vilnius on 6-8 November 2013, the <strong>ICT 2013 conference</strong> was the launch of the Horizon 2020 ICT work programme, and a key event of the Lithuanian EU Presidency. This year’s conference theme was <strong>“Create, Connect and Grow”</strong>. Speakers represented ICT experts from policy-making, industry, academia, and research centers covering the main ICT sectors from Cloud Computing, Cyber Security, broadband, and ICT infrastructures to ICT skills. One of the key speakers was <strong>Vice-President and European Commissioner for Digital Agenda Mrs. Neelie Kroes.</strong> In different sessions to question of <strong>how to participate in the next EU’s Research Programme – Horizon 2020 </strong>was discussed. The objective for joining the conference was that this event gave <strong>an excellent opportunity for ICT Alliance to network and discuss new potential partnerships as well as plan concrete ways forward towards joint Finland-EU-China R&amp;D&amp;I projects under Horizon 2020</strong>. Key thematic topics discussed in the conference were:<p></p>
+<ul>
+<li>ICT work programme for 2014;</li>
+<li>Investing in key enabling technologies;</li>
+<li>ICT applied to social innovations;</li>
+<li>Women in ICT business;</li>
+<li>Open data and digital content;</li>
+<li>Smart home and smart living;</li>
+<li>Cloud computing; and</li>
+<li>Future Internet.</li>
+</ul>
+<p></p></div><div class="column one_third column_last"><img class="alignnone size-full wp-image-864" alt="China-Finland ICT Alliance November" src="./initiativces_files/China-Finland-ICT-Alliance-November1.png" width="136" height="86"><img class="alignnone size-full wp-image-865" alt="China-Finland ICT Alliance November" src="./initiativces_files/China-Finland-ICT-Alliance-November2.jpg" width="138" height="86"><img class="alignnone size-full wp-image-866" alt="China-Finland ICT Alliance November" src="./initiativces_files/China-Finland-ICT-Alliance-November2.png" width="139" height="89"> </div><div class="clearboth"></div><div class="column two_third">Some of the most interesting calls in the <strong>ICT Work Programme 2014-2015</strong> from the point of view of EU cooperation will be:<p></p>
+<ul>
+<li>Call 7: Advanced Cloud infrastructures and services;</li>
+<li>Call 8: Boosting public sector productivity and innovation through Cloud computing services;</li>
+<li>Call 13: Web entrepreneurship;</li>
+<li>Call 14: Advanced 5G network infrastructure for the future Internet;</li>
+<li>Call 15: Big data and open data innovation and take-up; and</li>
+<li>Call 16: Big data – research.</li></ul></div><div class="column one_third column_last"><img class="alignnone size-full wp-image-868" alt="China-Finland ICT Alliance November" src="./initiativces_files/China-Finland-ICT-Alliance-November3.png" width="187" height="112"> </div><div class="clearboth"></div>
+
+<p><strong>Horizon 2020 ICT Work Programme Kick-off conference</strong> proved to be highly relevant event for assessing the current status and the new initiatives of <strong>China-Finland ICT Alliance</strong>. The on-going ICT Alliance projects and the new initiatives match Horizon 2020 ICT Work Programme and the broader EU-China collaboration objectives well. Likewise, the <strong>OpenChina‐ICT recommendations</strong> of the six optional and complementary routes for future cooperation between Europe and China are taken into use in <strong>ICT Alliance</strong> as it carries out jointly defined cooperation in R&amp;D projects that involve researcher and student exchanges and are industry-driven – involving also SMEs and innovative start-ups. It provides input both to bilateral and EU level dialogue and is involved in City level collaboration when addressing challenges facing urban societies. Some of the key thematic topics and forthcoming calls are highlighted below.</p>
+<p>The <strong>key thematic topics</strong> discussed in the Kick-off conference are active in the ICT Alliance cooperation. Examples include <strong>Smart home and smart living</strong>; Cloud computing; and Future Internet. Open data is also gaining attention in particular at City levels for enabling citizen-driven and third party service innovation. Smart home and smart living topics have been on the agenda in ICT Alliance since 2012. For example, the “active life home” services have also been developed and jointly piloted for example in Beijing and Shanghai, and an ecosystem activity on <strong>elderly care and active life (ECAL)</strong> has been launched by DIGILE. Also, the work in preparing an <strong>open mobile and embedded ecosystem (OMECO)</strong> aiming at developing open software and open hardware platforms that would help linking “everyday sensing” and common consumer platforms to create highly scalable horizontal solutions has selected “Smart Home” as one of the first potential application areas. The “everyday life” data collection also plays an important role in these activities.</p>
+<p></p><div class="column two_third">In the <strong>Future Internet</strong> area, cooperation that was launched at the Nanjing Forum on Future Networking and Innovation in December 2012 with a Memorandum of Understanding between Industry Innovation Center for Future Network, China (IICFNC), now Jiangsu Future Networks Innovation Institute (FNII), and China-Finland ICT Alliance / DIGILE – The Finnish Strategic Center for Science, Technology and Innovation in Digital Business, has moved forward to be a relevant candidate for Horizon 2020 activities in this area. FNII plays an important role in the Future Network Industry Alliance (FNIA) of China. Topics suggested for joint China-Finland projects include development of platforms for collecting and analysing network traffic in China and Europe for new network architecture design and network topology. Based on the on-going cooperation Finland is suggested to be a hub to facilitate development and implementation of open source based and transparent data collection. Chinese partners have developed expertise in new data-driven design philosophy based on fundamental research on data collection and mining to create next-generation CDNs that would complement the work of many expert teams in Europe including Finnish, German and British teams, as well as other international teams.<p></p>
+<p>&nbsp;</p>
+<p>Calls in the <strong>ICT Work Programme 2014-2015</strong> include areas where, in the ICT Alliance context, there is a track record of active joint work as well as newly launched projects between China and Finland and with other EU countries being linked. These projects relate among other things to:</p></div><div class="column one_third column_last"><img class="alignnone size-full wp-image-918" alt="China-Finland ICT Alliance November" src="./initiativces_files/China-Finland-ICT-Alliance-November4.png" width="161" height="75"> <img class="alignnone size-full wp-image-919" alt="China-Finland ICT Alliance November" src="./initiativces_files/China-Finland-ICT-Alliance-November5.png" width="156" height="156"><img class="alignnone size-full wp-image-920" alt="China-Finland ICT Alliance November" src="./initiativces_files/China-Finland-ICT-Alliance-November6.png" width="125" height="84"></div><div class="clearboth"></div><p></p>
+<ul>
+<li>Call 7: <strong>Advanced Cloud infrastructures and services</strong> where current projects e.g. “Everyday Sensing” have activities.</li>
+<li>&nbsp;Call 8: <strong>Boosting public sector productivity and innovation through Cloud computing services</strong>, where a new initiative is being prepared, involving also ICT Alliance, for launching a large scale real-life experimentation environment for development of future <strong>public digital services across Europe</strong> that are <strong>well trusted</strong> by citizens as well as by public and private service providers and that <strong>enable service roaming</strong>.</li>
+<li>Call 14: <strong>Advanced 5G network infrastructure</strong> for Future Internet, opportunity for a joint proposal is being studied. A strong proposal and consortium can be built on the several years of joint research partnerships in ICT Alliance in wireless access and energy efficient networking projects since 2009. From the Chinese side active parties involve e.g. WiCo (the Coordinator of ICT Alliance China side), Huazhong University of Science and Technology (HUST) and other key universities, with positive feedback also from the NSFC. The Finnish active research partners include VTT, University of Oulu, Aalto University, and Tampere University of Technology. A preparatory joint China-Finland/EU workshop has been proposed for Q1/2014 in Beijing with ICT Alliance involvement on Advanced 5G.</li>
+<li>Call 15:<strong> Big data and open data innovation and take-up</strong>; and</li>
+<li>Call 16: <strong>Big data – research</strong>, relate to ICT Alliance Phase II projects, like “Everyday Sensing”, “Sensing City Traffic”, and are focal areas in the enterprise cooperation discussions with entities like Z-Park / Zhongguancun Science Park. Open data plays particularly important role in the citizen and 3rd party driven innovation of public services as mentioned above. ICT Alliance is active in jointly identified services area with entities developing services for Cities like Beijing and Shanghai. New initiatives in real-time economy and novel financial services to boost innovation are in preparation phase in the ICT Alliance, and will be making extensive use of the big data approach. Likewise, in the various areas of everyday sensing and demand responsive (services for) cities these techniques will be developed further and employed.</li>
+</ul>
+<p>ICT Alliance cooperation activities have been developed in areas such as <strong>open mobile and embedded software and hardware platforms and tools.</strong> The “City-on-Demand ” concept is being developed to introduce service architecture thinking that includes both design of the physical urban environment and the digital service environment for creation of <strong>demand driven service solutions</strong>. Examples include mobility in urban areas, configurable spaces and access flow, and other services enabling better resource sharing and sustainable solutions. Complementing the activities in specific technology and application areas the ICT Alliance has taken active role in developing R&amp;D&amp;I cooperation in the horizontal area of education and training. The work covers new technology enabled solutions and <strong>”Education-as-a-Service”</strong> concept. These are being developed, among other, by launching <strong>EDUTECH</strong> ecosystem activity (prepared and coordinated by DIGILE) to support the <strong>Sino- Finnish Learning Factory</strong> cooperation launched in 2013 by Finnish Ministry of Education and Culture working in cooperation with the Chinese Ministry of Education, and with the key academic, public and industry entities in both countries. Following the open international approach of ICT Alliance the above areas are open for cooperation not only for Finnish and Chinese partners but also for involving the relevant and interested international partners in Europe – and elsewhere.</p>
+<p>In summary, during 2013 China-Finland ICT Alliance has taken steps to become a recognised open platform for business-oriented R&amp;D&amp;I also including pre-market pilots and experiments. Simultaneously, important dialogues with actors more oriented towards basic research, such as the National Natural Science Foundation of China <strong>(NSFC)</strong>, has developed to a level where potential areas for international bilateral and multiparty collaboration have been identified, and events such as workshops are planned for 2014.</p>
+<p>In addition to research activities, ICT Alliance has been recognised for its potential role in contributing to the creation of new comprehensive solutions that go beyond specific technologies. This is now taking place in the preparation of so called <strong>“business ecosystems”</strong> as well as in <strong>cross-sector initiatives</strong> involving Finnish and Chinese parties. The creation of business ecosystems, like those coordinated in Finland by DIGILE, can be a viable approach for involving Finnish and Chinese companies and other entities as partners and/or business pilot owners for creating relevant solutions with adequate momentum and access to (piloting in) the market. The ecosystems are open for other interested and contributing international partners as in general in all ICT Alliance activities.</p>
+<p><strong>Horizon 2020</strong> is a timely and prominent framework for supporting EU-China R&amp;D&amp;I cooperation and there is a strong interest from Chinese partners to launch joint projects although funding for Chinese partners is not at the moment provided by Horizon 2020. Chinese partners are positioned today also to take active role as key contributors reflecting China’s interest in open international R&amp;D&amp;I while simultaneously ensuring boosting its own innovation and design capabilities.</p>
+<p>In December ICT Alliance was one of the key topics when the DIGILE management visited several EU Cabinets including Research, Innovation and Science, and the Digital Agenda. <strong>The China-Finland ICT Alliance, recognised in the OpenChina-ICT and other international cooperation forums, is ready to take an active role in helping to create some of the strong and high impact joint EU-China research proposals – for “Co-creating the Future”.</strong></p>
+<p><strong>Visit of Ms. Pia Viitanen, Minister of Housing and Communications, to China in November</strong></p>
+<p></p><div class="column two_third">China-Finland ICT Alliance co-organised <strong>China-Finland Business Networking Event: Co-creating Future Digital Business: Communication and Media Focus</strong> on 13 November 2013 at Fairmont Peace Hotel in Shanghai. The participants from Chinese side include e.g. BesTV, NERC- DTV, Haier, Baosight/Baosteel, and experts from universities to discuss concrete business-oriented R&amp;D&amp;I and ecosystem cooperation.<p></p>
+<p>&nbsp;</p>
+<p>As the Finnish coordinator of ICT Alliance, Matti Hämäläinen participated some of Minister Viitanen’s business delegation meetings in Beijing and Shanghai, including meetings at <strong>Zhongguancun High-tech park,</strong> with whom China-Finland cooperation is in progress, <strong>Zhangjiang High-tech Park,</strong> with whom Golden Bridge and the City Espoo recently signed a Memorandum of Understanding, and <strong>BesTV</strong>. Topics in joint discussions include Smart Home – Smart Life and potential role of Finland as a ”hub” for global digital businesses as the relevant infrastructure decisions and investments are now being made. As a result, these topics are now being jointly examined as potential initiatives in the ICT Alliance cooperation context. In addition, the possibility of developing a ”virtual science park” by Finnish and Chinese innovation system actors was suggested (by Reijo Paajanen, DIGILE) and is to be investigated at the moment.</p></div><div class="column one_third column_last"><img class="alignnone  wp-image-926" alt="Screen Shot 2013-12-16 at 12.41.13" src="./initiativces_files/Screen-Shot-2013-12-16-at-12.41.13-211x300.png" width="177" height="248"></div><div class="clearboth"></div><p></p>
+<p><strong>Visit of Ms. Krista Kiuru, Minister of Education and Science, to China in November</strong></p>
+<p></p><div class="column two_third">ICT Alliance, represented by Matti Hämäläinen, and working in close cooperation with the Finnish Ministry of Education and Culture, the Embassy of Finland in Beijing, Finpro and Future Learning Finland, participated actively by giving talks and chairing sessions in education technology and services during the government and academic meetings in Beijing (Finnish Ministry of Education, Beijing Normal University). ICT Alliance co-organised a business networking event, <strong>Sino-Finnish Learning Factory Goes Design Factory: Co-creating Future Digital Learning Solutions and Business Opportunities,</strong> at the Sino-Finnish Centre in Shanghai to promote EDUTECH business ecosystem cooperation. Education has been on the ICT Alliance agenda for past two years and it has now become reality and in action together with actors in education technology and services research who are planning pilots with the Finnish Ministry of Education, with Cities (e.g. Espoo-Shanghai), and with relevant Chinese and Finnish academic and business actors.</div><div class="column one_third column_last"><img class="alignnone size-medium wp-image-932" alt="Screen Shot 2013-12-16 at 12.47.19" src="./initiativces_files/Screen-Shot-2013-12-16-at-12.47.19-300x240.png" width="188" height="149"></div><div class="clearboth"></div><p></p>
+<p><strong>4th Sino-Finnish eBusiness Education and Research &amp; Collaborative Innovation Forum 6-7 November 2013, Haikou, Hainan</strong></p>
+<p></p><div class="column two_third">ICT Alliance (represented by Matti Hämäläinen) was invited to present the development prospects and e-services opportunities in a meeting on planning services research cooperation in the context of the Sino- European eBEREA network, including the EU FP7 IRSES funded eBEREA researcher mobility programme. All the partner institutions from China and Finland were present, including Xi’an Jiaotong University, Southwestern University of Finance and Economics, Renmin University of China, Zhejiang University, Xiamen University, Central China Normal University, Hainan Normal University and Harbin Institute of Technology, and Aalto University, University of Jyväskylä, Åbo Akademi and University of Turku.<p></p>
+<p>&nbsp;</p>
+<p>In December 2013, the network covers many of the prominent services and e-business research institutions in China, and it also has active cooperation via its expert network with other key partners such as Tsinghua University and Tongji University. As Hainan is a nationally recognised tourism industry region in China a special summit during the Forum was organised by Hainan Normal University involving local industry on ubiquitous services and e-tourism. For example, a Sino- Finnish project is under planning for 2014 for developing cruise ship related technologies and services. The e-tourism area is also seen as a potential area of wider EU-cooperation, in particular as the European eBEREA partners include Italy (Trento) and the Netherlands (TU Delft). This preparation is, at the Finnish side, driven by University of Turku and Åbo Akademi.</p></div><div class="column one_third column_last"><img class="alignnone size-medium wp-image-934" alt="Screen Shot 2013-12-16 at 12.51.05" src="./initiativces_files/Screen-Shot-2013-12-16-at-12.51.05-213x300.png" width="188" height="264"></div><div class="clearboth"></div><p></p>
+<p><strong>More Information on China-Finland ICT Alliance and DIGILE</strong><br>
+For more information, please visit the <span style="font-size: small;">China-Finland ICT Alliance website <a href="http://www.ictalliance.org/">www.ictalliance.org</a>, DIGILE website</span><span style="font-size: small;"> <a href="http://www.digile.fi/">www.digile.fi</a> or contact Mr. Matti Hämäläinen and Mr. Jani Kaarlejärvi (<a href="mailto:firstname.lastname@digile.fi">firstname.lastname(at)digile.fi</a>).</span></p>
+      			<span class="gentle-deco-line" style="bottom: -2px;"></span>
+    			</div><!-- end blog-post -->
+    		    	</div> <!-- end mpc-page-content -->
+    			<script>
+		jQuery(document).ready(function($) {
+			var max_pages = parseInt('1');
+			var posts_count = parseInt('1');
+			var posts_per_page = parseInt('1');
+			var page = parseInt('1') + 1;
+			var next_page_link = '';
+
+			var $button = $('#gentle-lm-button');
+			var $container = $("#mpc-page-content");
+			var $loaded = $('#gentle-lm-info');
+
+			$loaded.text(posts_per_page + ' / ' + posts_count);
+
+			if(posts_count <= posts_per_page) 
+				$button.hide();
+
+			$button.click(function() {
+				
+				if (page <= max_pages) {
+					$(this).text('Loading...');
+					
+					$('<div></div>').load(next_page_link + ' .post', function() {
+						var $posts = $(this).children();
+							
+						page++;
+						next_page_link = next_page_link.replace(/page\/[0-9]\//, 'page/' + page);
+		
+						if (page <= max_pages) {
+							$button.text('Load More');
+							$loaded.text((posts_per_page * (page - 1)) + ' / ' + posts_count);
+						} else {
+							$button.stop().animate({ 'top': '30px' }, 500, 'easeOutExpo', function() {
+								$(this).hide();
+							});
+							$loaded.text(posts_count + ' / ' + posts_count);
+						}
+						
+						$container.append($posts);
+						$posts.addClass('no-transition');
+						$posts.css( { 'opacity' : 0 });
+
+						if ($.browser.msie && parseInt($.browser.version, 10) === 8) {
+							$container.isotope('addItems', $posts, function() {
+								$(window).trigger('resize');
+
+								$posts.animate({ 'opacity' : 1}, 2000, 'easeOutExpo', function() {
+									$posts.removeClass('no-transition');
+								});
+							});
+						}
+						else {
+							$container.imagesLoaded(function() {
+								$container.isotope('addItems', $posts, function() {
+									$(window).trigger('resize');
+
+									$posts.animate({ 'opacity' : 1}, 2000, 'easeOutExpo', function() {
+										$posts.removeClass('no-transition');
+									});
+								});
+							});
+						}
+					
+						setTimeout(function(){
+							$(window).trigger('resize');
+						}, 200);
+
+						$(window).trigger('resize');
+					});
+				}
+			});
+		});
+		</script>
+	    
+	    <div id="mpc-gentle-nav">
+	    	<div class="mpc-next-page"></div>
+			<div class="mpc-previous-page"></div>
+    	</div>
+    		<aside id="gentle-aside" class="sidebar-right">
+				<ul style="margin-top: 45px;">
+			<li id="text-4" class="widget widget_text" style="margin-right: 0px; float: none;"><h5 class="widget_title sidebar_widget_title">Upcoming Events</h5>			<div class="textwidget"><!--<a href="http://ictalliance.org/ndiw2015/" target="_blank"><img src="http://ictalliance.org/wp-content/uploads/2015/11/NDIW2015.jpg" alt="" width="200" /><br />
+Nordic Design and Innovation Week 2015 in Shanghai</a>--></div>
+		</li><li id="text-6" class="widget widget_text" style="margin-right: 0px; float: none;"><h5 class="widget_title sidebar_widget_title">Recent Newsletter</h5>			<div class="textwidget"><ul class="mpc_latest_news_list">
+<li class="mpc-recent-post first">
+<a class="recent-post-title" href="http://ictalliance.org/china-finland-ict-alliance-newsletter-april-june-2014/">April-June 2014</a>
+</li>
+<li class="mpc-recent-post first">
+<a class="recent-post-title" href="http://ictalliance.org/china-finland-ict-alliance-newsletter-january-march-2014/">January-March 2014</a>
+</li>
+<li class="mpc-recent-post first">
+<a class="recent-post-title" href="http://ictalliance.org/new-initiatives-launched-in-november-december-2013-2/">November-December 2013</a>
+</li>
+<li class="mpc-recent-post first">
+<a class="recent-post-title" href="http://ictalliance.org/boosting-china-cooperation/">October 2013</a>
+</li>
+</ul></div>
+		</li><li id="recentposts_widget-3" class="widget recentPosts_widget" style="margin-right: 0px; float: none;"><h5 class="widget_title">Recent News &amp; Posts</h5>			<ul class="mpc_latest_news_list">
+										<li class="mpc-recent-post first">
+											<a href="http://ictalliance.org/uetest/" class="recent-post-title">User Opinion Evaluation</a>
+						<span class="latest_posts_data">Dec 01, 2015 · <a href="http://ictalliance.org/category/registration/" rel="category tag">Registration</a></span>	
+					</li>
+										<li class="mpc-recent-post">
+											<a href="http://ictalliance.org/ndiw2015/" class="recent-post-title">Nordic Design and Innovation Week 2015 in Shanghai</a>
+						<span class="latest_posts_data">Nov 03, 2015 · <a href="http://ictalliance.org/category/news/" rel="category tag">News</a></span>	
+					</li>
+										<li class="mpc-recent-post">
+											<a href="http://ictalliance.org/china-finland-strategic-ict-alliance-international-workshop-week-21-24-april-2015-will-be-held-in-shanghai/" class="recent-post-title">China – Finland Strategic ICT Alliance International Workshop Week 21 – 24 April 2015 will be held in Shanghai</a>
+						<span class="latest_posts_data">Mar 31, 2015 · <a href="http://ictalliance.org/category/news/" rel="category tag">News</a></span>	
+					</li>
+										<li class="mpc-recent-post">
+											<a href="http://ictalliance.org/forthcoming-event-china-finland-co-creating-the-future-week-solutions-for-the-era-of-internet-economy-1-5-september-2014-espoo-and-helsinki-finland/" class="recent-post-title">“China-Finland Co-Creating the Future” Week – Solutions for the Era of Internet Economy</a>
+						<span class="latest_posts_data">Aug 31, 2014 · <a href="http://ictalliance.org/category/news/" rel="category tag">News</a></span>	
+					</li>
+										<li class="mpc-recent-post">
+											<a href="http://ictalliance.org/china-finland-ict-alliance-newsletter-april-june-2014/" class="recent-post-title">China-Finland ICT Alliance: Newsletter: April-June 2014</a>
+						<span class="latest_posts_data">Aug 20, 2014 · <a href="http://ictalliance.org/category/newsletter/" rel="category tag">Newletter</a></span>	
+					</li>
+										<li class="mpc-recent-post">
+											<a href="http://ictalliance.org/issue-tm-research-forum-intelligent-traffic-and-urban-mobility/" class="recent-post-title">ISSUE-TM Research Forum – Intelligent traffic and urban mobility</a>
+						<span class="latest_posts_data">Jul 08, 2014 · <a href="http://ictalliance.org/category/phase-i-project/research-forums/" rel="category tag">Research Forums</a></span>	
+					</li>
+										<li class="mpc-recent-post">
+											<a href="http://ictalliance.org/focus-area-smart-city-contributing-to-beautiful-beijing/" class="recent-post-title">Focus area: Smart City – Contributing to Beautiful Beijing</a>
+						<span class="latest_posts_data">Jul 07, 2014 · <a href="http://ictalliance.org/category/phase-i-project/focus-areas/" rel="category tag">Focus Areas</a></span>	
+					</li>
+										<li class="mpc-recent-post">
+											<a href="http://ictalliance.org/activities-overview-in-sino-finnish-senior-services-and-smart-home-cooperation-in-the-april-june-2014-period/" class="recent-post-title">Activities Overview in Sino-Finnish Senior Services and Smart Home cooperation in the April-June 2014 Period</a>
+						<span class="latest_posts_data">Jul 07, 2014 · <a href="http://ictalliance.org/category/news/" rel="category tag">News</a></span>	
+					</li>
+										<li class="mpc-recent-post">
+											<a href="http://ictalliance.org/focus-area-senior-services-and-smart-home/" class="recent-post-title">Focus area: Senior Services and Smart Home</a>
+						<span class="latest_posts_data">Jul 07, 2014 · <a href="http://ictalliance.org/category/phase-i-project/focus-areas/" rel="category tag">Focus Areas</a></span>	
+					</li>
+										<li class="mpc-recent-post">
+											<a href="http://ictalliance.org/activities-overview-in-sino-finnish-edutech-cooperation-in-the-april-june-2014-period/" class="recent-post-title">Activities Overview in Sino-Finnish EduTech cooperation in the April-June 2014 period</a>
+						<span class="latest_posts_data">Jun 26, 2014 · <a href="http://ictalliance.org/category/news/" rel="category tag">News</a></span>	
+					</li>
+							</ul>
+					
+		</li><span class="widget-clearboth"></span><li id="archives-2" class="widget widget_archive" style="margin-right: 0px; float: none;"><h5 class="widget_title sidebar_widget_title">Archives</h5>		<label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
+		<select id="archives-dropdown-2" name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+			
+			<option value="">Select Month</option>
+				<option value="http://ictalliance.org/2015/12/"> December 2015 &nbsp;(1)</option>
+	<option value="http://ictalliance.org/2015/11/"> November 2015 &nbsp;(1)</option>
+	<option value="http://ictalliance.org/2015/03/"> March 2015 &nbsp;(1)</option>
+	<option value="http://ictalliance.org/2014/08/"> August 2014 &nbsp;(2)</option>
+	<option value="http://ictalliance.org/2014/07/"> July 2014 &nbsp;(4)</option>
+	<option value="http://ictalliance.org/2014/06/"> June 2014 &nbsp;(3)</option>
+	<option value="http://ictalliance.org/2014/05/"> May 2014 &nbsp;(2)</option>
+	<option value="http://ictalliance.org/2014/04/"> April 2014 &nbsp;(5)</option>
+	<option value="http://ictalliance.org/2014/01/"> January 2014 &nbsp;(1)</option>
+	<option value="http://ictalliance.org/2013/12/"> December 2013 &nbsp;(1)</option>
+	<option value="http://ictalliance.org/2013/11/"> November 2013 &nbsp;(3)</option>
+	<option value="http://ictalliance.org/2013/10/"> October 2013 &nbsp;(1)</option>
+	<option value="http://ictalliance.org/2013/09/"> September 2013 &nbsp;(8)</option>
+	<option value="http://ictalliance.org/2013/06/"> June 2013 &nbsp;(1)</option>
+	<option value="http://ictalliance.org/2013/05/"> May 2013 &nbsp;(1)</option>
+	<option value="http://ictalliance.org/2013/04/"> April 2013 &nbsp;(2)</option>
+	<option value="http://ictalliance.org/2013/01/"> January 2013 &nbsp;(1)</option>
+	<option value="http://ictalliance.org/2012/11/"> November 2012 &nbsp;(1)</option>
+	<option value="http://ictalliance.org/2012/10/"> October 2012 &nbsp;(2)</option>
+	<option value="http://ictalliance.org/2012/06/"> June 2012 &nbsp;(1)</option>
+	<option value="http://ictalliance.org/2012/04/"> April 2012 &nbsp;(3)</option>
+	<option value="http://ictalliance.org/2011/12/"> December 2011 &nbsp;(1)</option>
+
+		</select>
+</li><li id="ctc-3" class="widget ctc" style="margin-right: 0px; float: none;"><h5 class="widget_title sidebar_widget_title">Tags</h5><div class="ctc"><a href="http://ictalliance.org/tag/5g/" class="ctc-tag tag-link-61" title="3 topics" rel="tag" style="font-size: 8.9655172413793pt; color: #4f4f4f;">5G</a>
+<a href="http://ictalliance.org/tag/aalto-university/" class="ctc-tag tag-link-79" title="6 topics" rel="tag" style="font-size: 10.413793103448pt; color: #4e4e4e;">Aalto University</a>
+<a href="http://ictalliance.org/tag/academician-deren-li/" class="ctc-tag tag-link-117" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Academician Deren Li</a>
+<a href="http://ictalliance.org/tag/active-ageing/" class="ctc-tag tag-link-122" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Active Ageing</a>
+<a href="http://ictalliance.org/tag/active-aging/" class="ctc-tag tag-link-119" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Active Aging</a>
+<a href="http://ictalliance.org/tag/active-life-village/" class="ctc-tag tag-link-120" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Active Life Village</a>
+<a href="http://ictalliance.org/tag/airport-college-international/" class="ctc-tag tag-link-72" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Airport College International</a>
+<a href="http://ictalliance.org/tag/alibaba/" class="ctc-tag tag-link-67" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Alibaba</a>
+<a href="http://ictalliance.org/tag/alv/" class="ctc-tag tag-link-125" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">ALV</a>
+<a href="http://ictalliance.org/tag/ambassador/" class="ctc-tag tag-link-25" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">ambassador</a>
+<a href="http://ictalliance.org/tag/beijing/" class="ctc-tag tag-link-5" title="18 topics" rel="tag" style="font-size: 16.206896551724pt; color: #474747;">Beijing</a>
+<a href="http://ictalliance.org/tag/beijing-city-government/" class="ctc-tag tag-link-123" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Beijing City Government</a>
+<a href="http://ictalliance.org/tag/beijing-normal-university/" class="ctc-tag tag-link-69" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Beijing Normal University</a>
+<a href="http://ictalliance.org/tag/bestv/" class="ctc-tag tag-link-65" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">BesTV</a>
+<a href="http://ictalliance.org/tag/bjast/" class="ctc-tag tag-link-144" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">BJAST</a>
+<a href="http://ictalliance.org/tag/bnu/" class="ctc-tag tag-link-151" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">BNU</a>
+<a href="http://ictalliance.org/tag/bnupg/" class="ctc-tag tag-link-155" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">BNUPG</a>
+<a href="http://ictalliance.org/tag/bupt/" class="ctc-tag tag-link-22" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">BUPT</a>
+<a href="http://ictalliance.org/tag/camp/" class="ctc-tag tag-link-4" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">camp</a>
+<a href="http://ictalliance.org/tag/ceo/" class="ctc-tag tag-link-99" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">CEO</a>
+<a href="http://ictalliance.org/tag/china/" class="ctc-tag tag-link-26" title="28 topics" rel="tag" style="font-size: 21.034482758621pt; color: #424242;">China</a>
+<a href="http://ictalliance.org/tag/china-finland/" class="ctc-tag tag-link-133" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">China Finland</a>
+<a href="http://ictalliance.org/tag/china-internet/" class="ctc-tag tag-link-105" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">China Internet</a>
+<a href="http://ictalliance.org/tag/china-mobile/" class="ctc-tag tag-link-97" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">China Mobile</a>
+<a href="http://ictalliance.org/tag/china-mr/" class="ctc-tag tag-link-139" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">China Mr</a>
+<a href="http://ictalliance.org/tag/choice/" class="ctc-tag tag-link-53" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">CHOICE</a>
+<a href="http://ictalliance.org/tag/cleantech/" class="ctc-tag tag-link-31" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">cleantech</a>
+<a href="http://ictalliance.org/tag/cleen/" class="ctc-tag tag-link-89" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">CLEEN</a>
+<a href="http://ictalliance.org/tag/cloud-computing/" class="ctc-tag tag-link-85" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Cloud Computing</a>
+<a href="http://ictalliance.org/tag/cnit/" class="ctc-tag tag-link-149" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">CNIT</a>
+<a href="http://ictalliance.org/tag/co-creating-the-future/" class="ctc-tag tag-link-141" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Co-Creating the Future</a>
+<a href="http://ictalliance.org/tag/collaboration/" class="ctc-tag tag-link-57" title="4 topics" rel="tag" style="font-size: 9.448275862069pt; color: #4f4f4f;">collaboration</a>
+<a href="http://ictalliance.org/tag/compass/" class="ctc-tag tag-link-77" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">COMPASS</a>
+<a href="http://ictalliance.org/tag/conference/" class="ctc-tag tag-link-7" title="4 topics" rel="tag" style="font-size: 9.448275862069pt; color: #4f4f4f;">conference</a>
+<a href="http://ictalliance.org/tag/cooperation/" class="ctc-tag tag-link-60" title="30 topics" rel="tag" style="font-size: 22pt; color: #414141;">cooperation</a>
+<a href="http://ictalliance.org/tag/design/" class="ctc-tag tag-link-15" title="3 topics" rel="tag" style="font-size: 8.9655172413793pt; color: #4f4f4f;">design</a>
+<a href="http://ictalliance.org/tag/digile/" class="ctc-tag tag-link-44" title="18 topics" rel="tag" style="font-size: 16.206896551724pt; color: #474747;">digile</a>
+<a href="http://ictalliance.org/tag/digital-services/" class="ctc-tag tag-link-82" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Digital Services</a>
+<a href="http://ictalliance.org/tag/ecosystem/" class="ctc-tag tag-link-62" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">ecosystem</a>
+<a href="http://ictalliance.org/tag/education/" class="ctc-tag tag-link-63" title="18 topics" rel="tag" style="font-size: 16.206896551724pt; color: #474747;">education</a>
+<a href="http://ictalliance.org/tag/edutech/" class="ctc-tag tag-link-64" title="5 topics" rel="tag" style="font-size: 9.9310344827586pt; color: #4e4e4e;">EduTech</a>
+<a href="http://ictalliance.org/tag/elderly-care/" class="ctc-tag tag-link-19" title="4 topics" rel="tag" style="font-size: 9.448275862069pt; color: #4f4f4f;">elderly care</a>
+<a href="http://ictalliance.org/tag/enterprise-forum/" class="ctc-tag tag-link-96" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Enterprise Forum</a>
+<a href="http://ictalliance.org/tag/espoo/" class="ctc-tag tag-link-21" title="21 topics" rel="tag" style="font-size: 17.655172413793pt; color: #454545;">Espoo</a>
+<a href="http://ictalliance.org/tag/eu/" class="ctc-tag tag-link-83" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">EU</a>
+<a href="http://ictalliance.org/tag/eu-china/" class="ctc-tag tag-link-59" title="3 topics" rel="tag" style="font-size: 8.9655172413793pt; color: #4f4f4f;">EU-China</a>
+<a href="http://ictalliance.org/tag/euchinaict/" class="ctc-tag tag-link-58" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">EUChinaICT</a>
+<a href="http://ictalliance.org/tag/europe/" class="ctc-tag tag-link-113" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Europe</a>
+<a href="http://ictalliance.org/tag/european/" class="ctc-tag tag-link-34" title="3 topics" rel="tag" style="font-size: 8.9655172413793pt; color: #4f4f4f;">European</a>
+<a href="http://ictalliance.org/tag/european-commission/" class="ctc-tag tag-link-91" title="4 topics" rel="tag" style="font-size: 9.448275862069pt; color: #4f4f4f;">European Commission</a>
+<a href="http://ictalliance.org/tag/event-date/" class="ctc-tag tag-link-115" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Event Date</a>
+<a href="http://ictalliance.org/tag/everday-life-data/" class="ctc-tag tag-link-159" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Everday Life Data</a>
+<a href="http://ictalliance.org/tag/ewine/" class="ctc-tag tag-link-86" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">EWINE</a>
+<a href="http://ictalliance.org/tag/ferc/" class="ctc-tag tag-link-74" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">FERC</a>
+<a href="http://ictalliance.org/tag/finchi/" class="ctc-tag tag-link-12" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">FinChi</a>
+<a href="http://ictalliance.org/tag/finland/" class="ctc-tag tag-link-51" title="20 topics" rel="tag" style="font-size: 17.172413793103pt; color: #464646;">Finland</a>
+<a href="http://ictalliance.org/tag/finland-china/" class="ctc-tag tag-link-111" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Finland China</a>
+<a href="http://ictalliance.org/tag/finland-mr/" class="ctc-tag tag-link-138" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Finland Mr</a>
+<a href="http://ictalliance.org/tag/finland-prof/" class="ctc-tag tag-link-137" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Finland Prof</a>
+<a href="http://ictalliance.org/tag/finland-representative-office/" class="ctc-tag tag-link-128" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Finland Representative Office</a>
+<a href="http://ictalliance.org/tag/forum/" class="ctc-tag tag-link-3" title="8 topics" rel="tag" style="font-size: 11.379310344828pt; color: #4d4d4d;">forum</a>
+<a href="http://ictalliance.org/tag/france-telecom/" class="ctc-tag tag-link-107" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">France Telecom</a>
+<a href="http://ictalliance.org/tag/future-internet/" class="ctc-tag tag-link-32" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">future internet</a>
+<a href="http://ictalliance.org/tag/future-networking/" class="ctc-tag tag-link-17" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">future networking</a>
+<a href="http://ictalliance.org/tag/future-ubiquitous-services/" class="ctc-tag tag-link-100" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Future Ubiquitous Services</a>
+<a href="http://ictalliance.org/tag/future-wireless-access/" class="ctc-tag tag-link-93" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Future Wireless Access</a>
+<a href="http://ictalliance.org/tag/gunvor-kronman/" class="ctc-tag tag-link-103" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Gunvor Kronman</a>
+<a href="http://ictalliance.org/tag/h2020/" class="ctc-tag tag-link-56" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">H2020</a>
+<a href="http://ictalliance.org/tag/helsinki/" class="ctc-tag tag-link-29" title="6 topics" rel="tag" style="font-size: 10.413793103448pt; color: #4e4e4e;">Helsinki</a>
+<a href="http://ictalliance.org/tag/hk/" class="ctc-tag tag-link-164" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">HK</a>
+<a href="http://ictalliance.org/tag/htibi/" class="ctc-tag tag-link-174" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">HTIBI</a>
+<a href="http://ictalliance.org/tag/huang-xing/" class="ctc-tag tag-link-104" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Huang Xing</a>
+<a href="http://ictalliance.org/tag/ibm/" class="ctc-tag tag-link-90" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">IBM</a>
+<a href="http://ictalliance.org/tag/ict/" class="ctc-tag tag-link-54" title="3 topics" rel="tag" style="font-size: 8.9655172413793pt; color: #4f4f4f;">ICT</a>
+<a href="http://ictalliance.org/tag/ict-alliance/" class="ctc-tag tag-link-30" title="24 topics" rel="tag" style="font-size: 19.103448275862pt; color: #444444;">ICT Alliance</a>
+<a href="http://ictalliance.org/tag/information-society/" class="ctc-tag tag-link-39" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">information society</a>
+<a href="http://ictalliance.org/tag/information-systems/" class="ctc-tag tag-link-38" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">information systems</a>
+<a href="http://ictalliance.org/tag/innovation/" class="ctc-tag tag-link-18" title="4 topics" rel="tag" style="font-size: 9.448275862069pt; color: #4f4f4f;">innovation</a>
+<a href="http://ictalliance.org/tag/international-green-campus/" class="ctc-tag tag-link-78" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">International Green Campus</a>
+<a href="http://ictalliance.org/tag/international-lab/" class="ctc-tag tag-link-163" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">International Lab</a>
+<a href="http://ictalliance.org/tag/international-workshop/" class="ctc-tag tag-link-92" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">International Workshop</a>
+<a href="http://ictalliance.org/tag/internet-economy/" class="ctc-tag tag-link-71" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">internet economy</a>
+<a href="http://ictalliance.org/tag/ircsi/" class="ctc-tag tag-link-124" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">IRCSI</a>
+<a href="http://ictalliance.org/tag/jade/" class="ctc-tag tag-link-87" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">JADE</a>
+<a href="http://ictalliance.org/tag/jani-kaarlej/" class="ctc-tag tag-link-108" title="5 topics" rel="tag" style="font-size: 9.9310344827586pt; color: #4e4e4e;">Jani Kaarlej</a>
+<a href="http://ictalliance.org/tag/learning-solution/" class="ctc-tag tag-link-68" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">learning solution</a>
+<a href="http://ictalliance.org/tag/liaocheng/" class="ctc-tag tag-link-176" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Liaocheng</a>
+<a href="http://ictalliance.org/tag/life-centric/" class="ctc-tag tag-link-166" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Life Centric</a>
+<a href="http://ictalliance.org/tag/life-driven/" class="ctc-tag tag-link-160" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Life Driven</a>
+<a href="http://ictalliance.org/tag/living-labs/" class="ctc-tag tag-link-94" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Living Labs</a>
+<a href="http://ictalliance.org/tag/luxembourg/" class="ctc-tag tag-link-112" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Luxembourg</a>
+<a href="http://ictalliance.org/tag/minister-of-communications/" class="ctc-tag tag-link-43" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">minister of communications</a>
+<a href="http://ictalliance.org/tag/minister-paula-risikko/" class="ctc-tag tag-link-143" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Minister Paula Risikko</a>
+<a href="http://ictalliance.org/tag/nanjing/" class="ctc-tag tag-link-10" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Nanjing</a>
+<a href="http://ictalliance.org/tag/national-key-lab/" class="ctc-tag tag-link-118" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">National Key Lab</a>
+<a href="http://ictalliance.org/tag/nec/" class="ctc-tag tag-link-109" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">NEC</a>
+<a href="http://ictalliance.org/tag/nokia-ltd/" class="ctc-tag tag-link-76" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Nokia Ltd</a>
+<a href="http://ictalliance.org/tag/nsfc/" class="ctc-tag tag-link-153" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">NSFC</a>
+<a href="http://ictalliance.org/tag/openchina/" class="ctc-tag tag-link-6" title="3 topics" rel="tag" style="font-size: 8.9655172413793pt; color: #4f4f4f;">openChina</a>
+<a href="http://ictalliance.org/tag/opening-speech/" class="ctc-tag tag-link-165" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Opening Speech</a>
+<a href="http://ictalliance.org/tag/partners/" class="ctc-tag tag-link-36" title="8 topics" rel="tag" style="font-size: 11.379310344828pt; color: #4d4d4d;">partners</a>
+<a href="http://ictalliance.org/tag/pdp/" class="ctc-tag tag-link-167" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">PDP</a>
+<a href="http://ictalliance.org/tag/pentahotel-shanghai/" class="ctc-tag tag-link-101" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Pentahotel Shanghai</a>
+<a href="http://ictalliance.org/tag/president-mr/" class="ctc-tag tag-link-88" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">President Mr</a>
+<a href="http://ictalliance.org/tag/rd/" class="ctc-tag tag-link-55" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">R&amp;D</a>
+<a href="http://ictalliance.org/tag/rdi/" class="ctc-tag tag-link-50" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">R&amp;D&amp;I</a>
+<a href="http://ictalliance.org/tag/radical-design-week/" class="ctc-tag tag-link-110" title="3 topics" rel="tag" style="font-size: 8.9655172413793pt; color: #4f4f4f;">Radical Design Week</a>
+<a href="http://ictalliance.org/tag/registration/" class="ctc-tag tag-link-23" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Registration</a>
+<a href="http://ictalliance.org/tag/reijo-paajanen/" class="ctc-tag tag-link-98" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Reijo Paajanen</a>
+<a href="http://ictalliance.org/tag/renmin-university/" class="ctc-tag tag-link-127" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Renmin University</a>
+<a href="http://ictalliance.org/tag/research-forum/" class="ctc-tag tag-link-136" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Research Forum</a>
+<a href="http://ictalliance.org/tag/senior-services/" class="ctc-tag tag-link-142" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Senior Services</a>
+<a href="http://ictalliance.org/tag/senior-services-innovation/" class="ctc-tag tag-link-129" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Senior Services Innovation</a>
+<a href="http://ictalliance.org/tag/sensing-city-traffic/" class="ctc-tag tag-link-81" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Sensing City Traffic</a>
+<a href="http://ictalliance.org/tag/services/" class="ctc-tag tag-link-27" title="17 topics" rel="tag" style="font-size: 15.724137931034pt; color: #484848;">services</a>
+<a href="http://ictalliance.org/tag/sflg/" class="ctc-tag tag-link-150" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">SFLG</a>
+<a href="http://ictalliance.org/tag/shangdong/" class="ctc-tag tag-link-175" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Shangdong</a>
+<a href="http://ictalliance.org/tag/shanghai/" class="ctc-tag tag-link-9" title="16 topics" rel="tag" style="font-size: 15.241379310345pt; color: #484848;">Shanghai</a>
+<a href="http://ictalliance.org/tag/shenzhen-university/" class="ctc-tag tag-link-148" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Shenzhen University</a>
+<a href="http://ictalliance.org/tag/simit/" class="ctc-tag tag-link-102" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">SIMIT</a>
+<a href="http://ictalliance.org/tag/sino-european/" class="ctc-tag tag-link-16" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">sino-european</a>
+<a href="http://ictalliance.org/tag/sino-finnish/" class="ctc-tag tag-link-37" title="4 topics" rel="tag" style="font-size: 9.448275862069pt; color: #4f4f4f;">sino-Finnish</a>
+<a href="http://ictalliance.org/tag/smart-cities/" class="ctc-tag tag-link-46" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">smart cities</a>
+<a href="http://ictalliance.org/tag/society-forum/" class="ctc-tag tag-link-106" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Society Forum</a>
+<a href="http://ictalliance.org/tag/solutions-space/" class="ctc-tag tag-link-147" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Solutions Space</a>
+<a href="http://ictalliance.org/tag/statement/" class="ctc-tag tag-link-24" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">statement</a>
+<a href="http://ictalliance.org/tag/summit/" class="ctc-tag tag-link-33" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">summit</a>
+<a href="http://ictalliance.org/tag/sustainable-urban-development/" class="ctc-tag tag-link-171" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Sustainable Urban Development</a>
+<a href="http://ictalliance.org/tag/su-yunsheng/" class="ctc-tag tag-link-162" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Su Yunsheng</a>
+<a href="http://ictalliance.org/tag/taiwan/" class="ctc-tag tag-link-177" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Taiwan</a>
+<a href="http://ictalliance.org/tag/team-finland/" class="ctc-tag tag-link-47" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">team Finland</a>
+<a href="http://ictalliance.org/tag/tekes/" class="ctc-tag tag-link-70" title="9 topics" rel="tag" style="font-size: 11.862068965517pt; color: #4c4c4c;">Tekes</a>
+<a href="http://ictalliance.org/tag/tekes-china/" class="ctc-tag tag-link-126" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Tekes China</a>
+<a href="http://ictalliance.org/tag/tencent/" class="ctc-tag tag-link-66" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Tencent</a>
+<a href="http://ictalliance.org/tag/tivit/" class="ctc-tag tag-link-11" title="6 topics" rel="tag" style="font-size: 10.413793103448pt; color: #4e4e4e;">TIVIT</a>
+<a href="http://ictalliance.org/tag/tongji-university/" class="ctc-tag tag-link-152" title="3 topics" rel="tag" style="font-size: 8.9655172413793pt; color: #4f4f4f;">Tongji University</a>
+<a href="http://ictalliance.org/tag/tsinghua-university/" class="ctc-tag tag-link-84" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Tsinghua University</a>
+<a href="http://ictalliance.org/tag/turku/" class="ctc-tag tag-link-40" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Turku</a>
+<a href="http://ictalliance.org/tag/urban-china-magazine/" class="ctc-tag tag-link-130" title="3 topics" rel="tag" style="font-size: 8.9655172413793pt; color: #4f4f4f;">Urban China Magazine</a>
+<a href="http://ictalliance.org/tag/urban-design/" class="ctc-tag tag-link-45" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">urban design</a>
+<a href="http://ictalliance.org/tag/urban-mill/" class="ctc-tag tag-link-146" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Urban Mill</a>
+<a href="http://ictalliance.org/tag/urban-sensing/" class="ctc-tag tag-link-172" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Urban Sensing</a>
+<a href="http://ictalliance.org/tag/us/" class="ctc-tag tag-link-168" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">US</a>
+<a href="http://ictalliance.org/tag/vaisala-ltd/" class="ctc-tag tag-link-75" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Vaisala Ltd</a>
+<a href="http://ictalliance.org/tag/visiting-professor/" class="ctc-tag tag-link-116" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Visiting Professor</a>
+<a href="http://ictalliance.org/tag/vtt/" class="ctc-tag tag-link-80" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">VTT</a>
+<a href="http://ictalliance.org/tag/wellbeing-senior-services/" class="ctc-tag tag-link-157" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Wellbeing Senior Services</a>
+<a href="http://ictalliance.org/tag/wenjin-hotel-beijing/" class="ctc-tag tag-link-114" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Wenjin Hotel Beijing</a>
+<a href="http://ictalliance.org/tag/workshop/" class="ctc-tag tag-link-14" title="15 topics" rel="tag" style="font-size: 14.758620689655pt; color: #494949;">workshop</a>
+<a href="http://ictalliance.org/tag/wuhan/" class="ctc-tag tag-link-20" title="2 topics" rel="tag" style="font-size: 8.4827586206897pt; color: #505050;">Wuhan</a>
+<a href="http://ictalliance.org/tag/wuhan-university/" class="ctc-tag tag-link-121" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Wuhan University</a>
+<a href="http://ictalliance.org/tag/xian/" class="ctc-tag tag-link-35" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Xi'an</a>
+<a href="http://ictalliance.org/tag/xing-jijun/" class="ctc-tag tag-link-145" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Xing Jijun</a>
+<a href="http://ictalliance.org/tag/yangpu/" class="ctc-tag tag-link-178" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Yangpu</a>
+<a href="http://ictalliance.org/tag/z-park/" class="ctc-tag tag-link-49" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">z-park</a>
+<a href="http://ictalliance.org/tag/zhongguancun/" class="ctc-tag tag-link-48" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">zhongguancun</a>
+<a href="http://ictalliance.org/tag/zhongguancun-science-park/" class="ctc-tag tag-link-95" title="1 topics" rel="tag" style="font-size: 8pt; color: #505050;">Zhongguancun Science Park</a></div></li>		</ul>
+	</aside><!-- #gentle_aside -->	</div> <!-- end mpc-page-wrap --> 
+	<div id="gentle-load-more">
+			<span id="gentle-lm-button" style="display: none;">Load More</span>
+	    	<span id="gentle-lm-info">1 / 1</span>	
+	</div>
+</div> <!-- end mpc-content --> 
+
+
+
+<script>
+	jQuery(document).ready(function($) {
+
+					$('#gentle_footer').children('.footer-content').slideUp(1);
+			$('#gentle_footer').children('.bottom-footer').css('border', 'none');
+		
+					$('#gentle_footer').hover(function() {
+				var $this = $(this).children('.footer-content');
+				$this.stop().slideDown();
+				$('html, body').stop().animate({ scrollTop: $(document).height() });
+				$('#gentle_footer').children('.bottom-footer').css('border-top', '1px solid #DDD');
+			}, function() {
+				var $this = $(this).children('.footer-content');
+				$this.stop().slideUp('slow', function(){
+					$('#gentle_footer').children('.bottom-footer').css('border', 'none');
+				});
+				
+			});
+			});
+</script>
+
+<footer id="gentle_footer" class="sidebar-right" style="margin-top: 0px;">
+	<div class="footer-content" style="display: none;">
+		<ul>
+			<li id="text-5" class=" widget widget_3 widget_text"><h5 class="widget_title footer_title">About DIGILE</h5>			<div class="textwidget"><p>DIGILE aims is to increase the pace of development of Finnish ICT and digital business, which in turn will ensure growth of the business of the whole sector, and therein the creation of new jobs. Nowadays, digital business is an essential part of all kinds of business as well as public services – not just ICT.</p>
+<p>As one of Finland’s Strategic Centres for Science, Technology and Innovation (SHOKs) – DIGILE’s role is not only to bring together and systematise research and development, but also to ensure that the results of research are understood, applied and adopted as part of companies’ business practice faster than ever before.</p>
+<p><img alt="DIGILE" src="./initiativces_files/digile.png"></p></div>
+		</li><li id="calendar-2" class=" widget widget_3 widget_calendar"><h5 class="widget_title footer_title">Calendar</h5><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>December 2013</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://ictalliance.org/2013/11/">« Nov</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next"><a href="http://ictalliance.org/2014/01/">Jan »</a></td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="6" class="pad">&nbsp;</td><td>1</td>
+	</tr>
+	<tr>
+		<td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
+	</tr>
+	<tr>
+		<td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td>
+	</tr>
+	<tr>
+		<td><a href="http://ictalliance.org/2013/12/16/" title="New initiatives launched in November-December 2013">16</a></td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td>
+	</tr>
+	<tr>
+		<td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td>
+	</tr>
+	<tr>
+		<td>30</td><td>31</td>
+		<td class="pad" colspan="5">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></li><li id="rsgwidget-2" class=" widget widget_3 widget_rsg"><h5 class="widget_title footer_title">Photostream</h5>
+	<dl class="rsgallery">
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/boosting-china-cooperation/#attachment_836" title="boosting-china-0"><img src="./initiativces_files/boosting-china-0.jpg" alt="boosting-china-0" title="boosting-china-0" width="150" height="84" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/portfolio/3rd-european-summit-on-the-future-internet-in-espoo-may-2012/#attachment_425" title="3rd-european-summit-on-the-future-internet-1"><img src="./initiativces_files/3rd-european-summit-on-the-future-internet-1-150x150.jpg" alt="3rd-european-summit-on-the-future-internet-1" title="3rd-european-summit-on-the-future-internet-1" width="150" height="150" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/boosting-china-cooperation/#attachment_826" title="boosting-china-12"><img src="./initiativces_files/boosting-china-12.jpg" alt="boosting-china-12" title="boosting-china-12" width="150" height="93" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/wp-content/uploads/2014/10/carousel4-150x150.jpg" title="carousel4-150×150"><img src="./initiativces_files/carousel4-150x150-150x150.jpg" alt="carousel4-150×150" title="carousel4-150×150" width="150" height="150" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/portfolio/china-coordination-working-group-meeting-in-espoo-may-2014/#attachment_1165" title="China-Coordination-Working-Group"><img src="./initiativces_files/China-Coordination-Working-Group1-150x150.jpg" alt="China-Coordination-Working-Group" title="China-Coordination-Working-Group" width="150" height="150" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/china-finland-ict-alliance-newsletter-january-march-2014/#attachment_1026" title="Untitled"><img src="./initiativces_files/Untitled14-150x150.png" alt="Untitled" title="Untitled" width="150" height="150" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/z-park-enterprise-forum-with-ict-alliance-faster-from-rdi-to-business/#attachment_852" title="z-park"><img src="./initiativces_files/z-park.jpg" alt="z-park" title="z-park" width="150" height="150" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/portfolio/6th-ict-alliance-workshop-in-shanghai-september-2013/#attachment_763" title="6-ictworkshop-shanghai-23"><img src="./initiativces_files/6-ictworkshop-shanghai-23.jpg" alt="6-ictworkshop-shanghai-23" title="6-ictworkshop-shanghai-23" width="150" height="113" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/portfolio/shandong-liaocheng-delegation-visit-in-espoo-september-2015/#attachment_1491" title="WeChat_1443168585"><img src="./initiativces_files/WeChat_1443168585-150x150.jpeg" alt="WeChat_1443168585" title="WeChat_1443168585" width="150" height="150" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/green-campus/#attachment_672" title="greencampus-2"><img src="./initiativces_files/greencampus-2.jpg" alt="greencampus-2" title="greencampus-2" width="150" height="93" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/wp-content/uploads/2014/10/carousel-4.jpg" title="carousel-4"><img src="./initiativces_files/carousel-4-150x150.jpg" alt="carousel-4" title="carousel-4" width="150" height="150" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/portfolio/openchina-ict-dialogue-conference-15-16-november-beijing-openchina-ict/#attachment_202" title="openchina-ict-dialogue-conference-1"><img src="./initiativces_files/openchina-ict-dialogue-conference-1.jpg-150x150.jpg" alt="openchina-ict-dialogue-conference-1" title="openchina-ict-dialogue-conference-1" width="150" height="150" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/ict-alliance-workshop-in-espoo/#attachment_975" title="espoo-ict-workshop"><img src="./initiativces_files/espoo-ict-workshop-150x150.jpg" alt="espoo-ict-workshop" title="espoo-ict-workshop" width="150" height="150" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/china-finland-ict-alliance-newsletter-april-june-2014/#attachment_1103" title="2108201411"><img src="./initiativces_files/2108201411-150x150.png" alt="2108201411" title="2108201411" width="150" height="150" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/portfolio/focus-on-china-cooperation-in-higher-education-and-ict-in-espoo-june-2013/#attachment_596" title="2013_06_17_China_0083"><img src="./initiativces_files/2013_06_17_China_0083.jpg" alt="2013_06_17_China_0083" title="2013_06_17_China_0083" width="150" height="113" class="rsg_image"></a>
+		</dt>
+		<dt class="rsg_item">
+			<a href="http://ictalliance.org/fincompass/#attachment_666" title="fincompass"><img src="./initiativces_files/fincompass.jpg" alt="fincompass" title="fincompass" width="150" height="59" class="rsg_image"></a>
+		</dt>
+	</dl></li>		</ul>
+	</div>	
+	<div class="bottom-footer" style="border: none;">
+		<div class="bottom-footer-content">
+			<div class="gentle-copyright">© 2012-2015. All rights reserved.  Website developed and maintained by DIGILE and Innolake.</div>
+			<div class="gentle-social-icons">			
+																									<a href="http://ictalliance.org/feed/"><span class="gentle-social-icon gentle-rss"></span></a>
+													<a href="http://www.linkedin.com/groups?gid=2437266&trk=my_groups-b-grp-v"><span class="gentle-social-icon gentle-linkedin"></span></a>
+																																																															</div>
+			
+
+		</div>
+	</div>
+</footer><!-- gentle footer end -->
+</div><!-- #page end -->
+	<script type="text/javascript" src="./initiativces_files/jquery.form.min.js"></script>
+<script type="text/javascript" src="./initiativces_files/core.js"></script>
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>

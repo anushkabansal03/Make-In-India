@@ -1,0 +1,68 @@
+html, body {
+	height: 100%;
+
+}
+
+body {
+	margin: 0px;
+	background: #fff;
+	font-size: 12pt;
+	color: #363636;
+	padding-top: 100px;
+	overflow-x: hidden; 
+}
+.heading
+{
+	float: left;
+	font-size:50px;
+	color:#fff;
+	font-family: makeinindia,Aloha;
+}
+#menu {
+	height: 100px;
+	background-color:#4099ff ;
+	font-family: Aloha;
+    width: 100%;
+    position: fixed;
+	top: 0;
+	z-index: 3;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 20px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+	text-align: right;
+}
+
+#menu li {
+	display: inline-block;
+}
+
+#menu a {
+	display: block;
+	letter-spacing: 1px;
+	padding: 20px 30px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 0.9em;
+	font-weight: 600;
+	border: none;
+	color: #FFF;
+
+}
+
+#menu a:hover 
+{
+	color: 	#c6ccd2;
+}
+#scroll
+{
+height: 50px;
+width:50px;
+vertical-align: bottom;
+position: absolute;
+bottom: 20;
+}
